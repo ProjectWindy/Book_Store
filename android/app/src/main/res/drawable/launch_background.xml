@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+      <item android:drawable="@color/white" /> <!-- Màu nền -->
+      <item>
+          <bitmap
+              android:src="@drawable/launch" <!-- Tên ảnh của bạn -->
+              android:gravity="center" />
+      </item>
+  </layer-list>

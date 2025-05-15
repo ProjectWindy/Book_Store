@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Book Store App",
+    "welcome": "Welcome to our bookstore"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password?",
+    "dont_have_account": "Don't have an account?",
+    "already_have_account": "Already have an account?"
+  },
+  "home": {
+    "search": "Search for books...",
+    "categories": "Categories",
+    "popular": "Bestsellers",
+    "new_books": "New Books"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Cart is empty",
+    "total": "Total",
+    "checkout": "Checkout"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit_profile": "Edit Profile",
+    "orders": "Orders",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "orders": {
+    "title": "Orders",
+    "status": {
+      "pending": "Pending",
+      "processing": "Processing",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "new_order": "You have a new order",
+    "order_status": "Order status has been updated"
+  },
+  "vouchers": {
+    "title": "Vouchers",
+    "apply": "Apply Code",
+    "enter_code": "Enter voucher code",
+    "invalid": "Invalid code",
+    "expired": "Code expired",
+    "applied": "Code applied"
+  },
+  "qr": {
+    "scan": "Scan QR Code",
+    "generate": "Generate QR Code",
+    "scan_success": "Scan successful",
+    "scan_failed": "Scan failed"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Ứng dụng Đặt Sách",
+    "welcome": "Chào mừng bạn đến với cửa hàng sách của chúng tôi"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "forgot_password": "Quên mật khẩu?",
+    "dont_have_account": "Chưa có tài khoản?",
+    "already_have_account": "Đã có tài khoản?"
+  },
+  "home": {
+    "search": "Tìm kiếm sách...",
+    "categories": "Danh mục",
+    "popular": "Sách bán chạy",
+    "new_books": "Sách mới"
+  },
+  "cart": {
+    "title": "Giỏ hàng",
+    "empty": "Giỏ hàng trống",
+    "total": "Tổng cộng",
+    "checkout": "Thanh toán"
+  },
+  "profile": {
+    "title": "Hồ sơ",
+    "edit_profile": "Chỉnh sửa hồ sơ",
+    "orders": "Đơn hàng",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất"
+  },
+  "orders": {
+    "title": "Đơn hàng",
+    "status": {
+      "pending": "Đang chờ",
+      "processing": "Đang xử lý",
+      "delivered": "Đã giao",
+      "cancelled": "Đã hủy"
+    }
+  },
+  "notifications": {
+    "title": "Thông báo",
+    "new_order": "Bạn có đơn hàng mới",
+    "order_status": "Trạng thái đơn hàng đã được cập nhật"
+  },
+  "vouchers": {
+    "title": "Mã giảm giá",
+    "apply": "Áp dụng mã",
+    "enter_code": "Nhập mã giảm giá",
+    "invalid": "Mã không hợp lệ",
+    "expired": "Mã đã hết hạn",
+    "applied": "Mã đã được áp dụng"
+  },
+  "qr": {
+    "scan": "Quét mã QR",
+    "generate": "Tạo mã QR",
+    "scan_success": "Quét mã thành công",
+    "scan_failed": "Quét mã thất bại"
+  }
+}
